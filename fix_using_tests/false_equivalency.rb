@@ -4,7 +4,7 @@ def get_user_input
   gets.chomp
 end
 
-num = get_user_input
+# num = get_user_input
 
 def prompt_user
   puts "What would you like to do?"
